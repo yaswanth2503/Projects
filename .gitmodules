@@ -1,7 +1,8 @@
 [submodule "Projects"]
 	path = Projects
 	url = https://github.com/yaswanth2503/Projects.git
-[submodule "Warranty_Tracker"]
-	path = Warranty_Tracker
-	url = https://github.com/yaswanth2503/Projects/Warranty_Tracker.git
+[submodule "Projects/Warranty_Tracker"]
+	path = Projects/Warranty_Tracker
+	url = https://github.com/yaswanth2503/Warranty_Tracker.git
+
 
